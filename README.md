@@ -2,7 +2,7 @@
 Filter
 
 <h1>Home Page</h1>
-![Screenshot (138)](https://user-images.githubusercontent.com/103634544/214702135-338afa5a-4c0a-4740-b03a-d51a0b255859.png)
+<img src="https://user-images.githubusercontent.com/103634544/214702135-338afa5a-4c0a-4740-b03a-d51a0b255859.png">
 
 
 <h1>Responsive for medium screen</h1>
