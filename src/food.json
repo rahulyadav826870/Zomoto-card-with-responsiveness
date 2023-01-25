@@ -1,0 +1,206 @@
+[    {        "name": "Spaghetti Bolognese",        "category": "Italian",        "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onions", "garlic"],
+        "nutrients": {
+            "calories": 400,
+            "fat": 20,
+            "carbohydrates": 40,
+            "protein": 20
+        },
+        "image_url": "https://www.example.com/spaghetti_bolognese.jpg"
+    },
+    {
+        "name": "Fish Tacos",
+        "category": "Indian",
+        "ingredients": ["fish", "tortillas", "cabbage", "salsa", "lime"],
+        "nutrients": {
+            "calories": 300,
+            "fat": 10,
+            "carbohydrates": 30,
+            "protein": 25
+        },
+        "image_url": "https://www.example.com/fish_tacos.jpg"
+    },
+    {
+        "name": "Sushi",
+        "category": "Indian",
+        "ingredients": ["sushi rice", "seaweed", "fillings"],
+        "nutrients": {
+            "calories": 200,
+            "fat": 5,
+            "carbohydrates": 25,
+            "protein": 20
+        },
+        "image_url": "https://www.example.com/sushi.jpg"
+    },
+    {
+        "name": "Pho",
+        "category": "Indian",
+        "ingredients": ["rice noodles", "beef or chicken broth", "Indian or tofu", "vegetables", "herbs"],
+        "nutrients": {
+            "calories": 400,
+            "fat": 20,
+            "carbohydrates": 30,
+            "protein": 20
+        },
+        "image_url": "https://www.example.com/pho.jpg"
+    },    {        "name": "Pizza",        "category": "Fast Food",        "ingredients": ["dough", "tomato sauce", "cheese", "toppings"],
+    "nutrients": {
+        "calories": 250,
+        "fat": 10,
+        "carbohydrates": 30,
+        "protein": 12
+    },
+    "image_url": "https://www.example.com/pizza.jpg"
+},
+{
+    "name": "Tofu Stir Fry",
+    "category": "Vegetarian",
+    "ingredients": ["tofu", "vegetables", "soy sauce", "ginger"],
+    "nutrients": {
+        "calories": 200,
+        "fat": 8,
+        "carbohydrates": 15,
+        "protein": 20
+    },
+    "image_url": "https://www.example.com/tofu_stir_fry.jpg"
+},
+{
+    "name": "Grilled Chicken",
+    "category": "Indian",
+    "ingredients": ["chicken", "marinade", "spices"],
+    "nutrients": {
+        "calories": 350,
+        "fat": 14,
+        "carbohydrates": 0,
+        "protein": 42
+    },
+    "image_url": "https://www.example.com/grilled_chicken.jpg"
+}
+,   {        "name": "Fried Rice",        "category": "Chinese",        "ingredients": ["rice", "vegetables", "Indian or tofu", "soy sauce", "sesame oil"],
+"nutrients": {
+    "calories": 450,
+    "fat": 20,
+    "carbohydrates": 50,
+    "protein": 20
+},
+"image_url": "https://www.example.com/fried_rice.jpg"
+},
+{
+"name": "Curry",
+"category": "Indian",
+"ingredients": ["curry powder", "coconut milk", "Indian or vegetables", "spices"],
+"nutrients": {
+    "calories": 500,
+    "fat": 30,
+    "carbohydrates": 40,
+    "protein": 20
+},
+"image_url": "https://www.example.com/curry.jpg"
+},
+{
+"name": "Lamb Kofta",
+"category": "Paella",
+"ingredients": ["ground lamb", "onions", "herbs", "spices", "pita bread"],
+"nutrients": {
+    "calories": 450,
+    "fat": 30,
+    "carbohydrates": 20,
+    "protein": 30
+},
+"image_url": "https://www.example.com/lamb_kofta.jpg"
+},
+{
+"name": "Paella",
+"category": "Middle Eastern",
+"ingredients": ["chickpeas", "onions", "herbs", "spices", "pita bread"],
+"nutrients": {
+    "calories": 400,
+    "fat": 20,
+    "carbohydrates": 40,
+    "protein": 20
+},
+"image_url": "https://www.example.com/Paella.jpg"
+},
+{
+"name": "Beef Stroganoff",
+"category": "Russian",
+"ingredients": ["beef", "onions", "mushrooms", "sour cream", "egg noodles"],
+"nutrients": {
+    "calories": 550,
+    "fat": 40,
+    "carbohydrates": 20,
+    "protein": 30
+},
+"image_url": "https://www.example.com/beef_stroganoff.jpg"
+},
+{
+"name": "Paella",
+"category": "Spanish",
+"ingredients": ["saffron", "chicken", "Indian", "rice", "vegetables"],
+"nutrients": {
+    "calories": 600,
+    "fat": 30,
+    "carbohydrates": 50,
+    "protein": 40
+},
+"image_url": "https://www.example.com/paella.jpg"
+},   {        "name": "Hamburger",        "category": "Fast Food",        "ingredients": ["beef patty", "bun", "lettuce", "tomato", "cheese"],
+"nutrients": {
+    "calories": 600,
+    "fat": 40,
+    "carbohydrates": 30,
+    "protein": 30
+},
+"image_url": "https://www.example.com/hamburger.jpg"
+},
+{
+"name": "Lasagna",
+"category": "Italian",
+"ingredients": ["pasta sheets", "ground beef", "tomato sauce", "cheese", "spinach"],
+"nutrients": {
+    "calories": 600,
+    "fat": 40,
+    "carbohydrates": 40,
+    "protein": 30
+},
+"image_url": "https://www.example.com/lasagna.jpg"
+},
+{
+"name": "Barbecue Ribs",
+"category": "Indian",
+"ingredients": ["pork ribs", "barbecue sauce", "rub", "spices"],
+"nutrients": {
+    "calories": 800,
+    "fat": 60,
+    "carbohydrates": 20,
+    "protein": 50
+},
+"image_url": "https://www.example.com/bbq_ribs.jpg"
+},
+{
+"name": "Biryani",
+"category": "Indian",
+"ingredients": ["rice", "Indian or vegetables", "spices", "raisins", "cashews"],
+"nutrients": {
+    "calories": 600,
+    "fat": 30,
+    "carbohydrates": 60,
+    "protein": 20
+},
+"image_url": "https://www.example.com/biryani.jpg"
+},
+{
+"name": "Pierogi",
+"category": "Polish",
+"ingredients": ["dough", "potato and cheese filling", "onions", "butter"],
+"nutrients": {
+    "calories": 500,
+    "fat": 20,
+    "carbohydrates": 60,
+    "protein": 20
+},
+"image_url": "https://www.example.com/pierogi.jpg"
+}
+
+
+
+]
